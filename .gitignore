@@ -4,3 +4,13 @@
 
 /.vs
 /ECommerce.App/.vs/ECommerce.App
+/ECommerce.App/Core/ECommerce.Application/bin/Debug/net6.0
+/ECommerce.App/Core/ECommerce.Application/obj
+/ECommerce.App/Core/ECommerce.Domain/bin/Debug/net6.0
+/ECommerce.App/Core/ECommerce.Domain/obj
+/ECommerce.App/Infrastructure/ECommerce.Infrastructure/bin/Debug/net6.0
+/ECommerce.App/Infrastructure/ECommerce.Infrastructure/obj
+/ECommerce.App/Infrastructure/ECommerce.Persistence/bin/Debug/net6.0
+/ECommerce.App/Infrastructure/ECommerce.Persistence/obj
+/ECommerce.App/Presentation/ECommerce.Api/bin/Debug/net6.0
+/ECommerce.App/Presentation/ECommerce.Api/obj
