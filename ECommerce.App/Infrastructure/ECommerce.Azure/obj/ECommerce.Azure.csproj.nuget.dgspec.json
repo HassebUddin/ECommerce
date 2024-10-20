@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Haseeb Work\\Angular+.Net Project\\Backend\\ECommerce\\ECommerce.App\\Infrastructure\\ECommerce.Azure\\ECommerce.Azure.csproj": {}
+  },
+  "projects": {
+    "C:\\Haseeb Work\\Angular+.Net Project\\Backend\\ECommerce\\ECommerce.App\\Infrastructure\\ECommerce.Azure\\ECommerce.Azure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Haseeb Work\\Angular+.Net Project\\Backend\\ECommerce\\ECommerce.App\\Infrastructure\\ECommerce.Azure\\ECommerce.Azure.csproj",
+        "projectName": "ECommerce.Azure",
+        "projectPath": "C:\\Haseeb Work\\Angular+.Net Project\\Backend\\ECommerce\\ECommerce.App\\Infrastructure\\ECommerce.Azure\\ECommerce.Azure.csproj",
+        "packagesPath": "C:\\Users\\HAJI LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Haseeb Work\\Angular+.Net Project\\Backend\\ECommerce\\ECommerce.App\\Infrastructure\\ECommerce.Azure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HAJI LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.AzureAppServices": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Serilog.Sinks.ApplicationInsights": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
